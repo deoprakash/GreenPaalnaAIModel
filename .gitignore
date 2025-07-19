@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
+myenv/
+
+# Model files (optional - keep if you don't want to track large models)
+*.h5
+*.pkl
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache and config
+.streamlit/
+.cache/
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# Local uploads or temp images
+uploads/
+*.jpg
+*.jpeg
+*.png
+
+# Git metadata (DON'T REMOVE)
+!.gitignore
