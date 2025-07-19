@@ -17,10 +17,6 @@ venv/
 env/
 myenv/
 
-# Model files (optional - keep if you don't want to track large models)
-*.h5
-*.pkl
-
 # Logs and temporary files
 *.log
 *.tmp
